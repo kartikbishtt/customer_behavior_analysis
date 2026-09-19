@@ -250,23 +250,7 @@ in Power BI Desktop.
 - Dashboard Development
 - Business Storytelling
 
----
 
-## 🎯 Future Improvements
 
-- Add customer segmentation using RFM analysis
-- Perform cohort analysis
-- Build predictive models
-- Deploy dashboards online
-- Automate ETL pipeline
 
----
-
-## 👤 Author
-
-**Your Name**
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
-GitHub: https://github.com/yourusername
 
